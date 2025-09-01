@@ -10,7 +10,7 @@
 
 ## 🌟 About the Project
 
-**Soi Moi Tarot Bot** is a modern Telegram bot for Tarot card readings that will help you find answers to important life questions, receive personalized predictions, and discover your destiny arcana.
+**Soi Moi Tarot Bot** is a modern japanese style Telegram bot for Tarot card readings that will help you find answers to important life questions, receive personalized predictions, and discover your destiny arcana.
 
 ### ✨ Features
 
